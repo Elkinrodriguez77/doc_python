@@ -1,3 +1,6 @@
+
+#separar_texto_en_columnas
+
 1. Función para tomar valores antes de separador, en este caso "," en python:
 
 * df_filtered['Category']: Esta parte del código hace referencia a la columna 'Category' del DataFrame 'df_filtered'. Estás accediendo a todos los datos que se encuentran en esa columna específica.
